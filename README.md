@@ -21,28 +21,7 @@ You can install these libraries using pip:
 ```
 pip install pandas numpy matplotlib scikit-learn
 ```
-
-## Usage
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your_username/sms-spam-detection.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd sms-spam-detection
-```
-
-3. Run the `sms_spam_detection.py` script:
-
-```
-python sms_spam_detection.py
-```
-
-## Results
+Run Jupyter Notebook file (NLP Spam and Ham)
 
 After running the script, you'll see the accuracy scores, confusion matrices, and classification reports for both SVM and Logistic Regression models.
 
