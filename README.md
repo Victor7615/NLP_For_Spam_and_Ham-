@@ -33,4 +33,4 @@ After running the script, you'll see the accuracy scores, confusion matrices, an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[View Project](https://github.com/Victor7615/NLP_For_Spam_and_Ham-/edit/main/README.md)
+
