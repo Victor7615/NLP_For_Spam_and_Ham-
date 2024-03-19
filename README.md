@@ -5,7 +5,7 @@ This project aims to detect spam SMS messages using machine learning algorithms.
 
 ## Dataset
 
-The dataset used in this project is obtained from [Kaggle]([link_to_the_dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)). It contains two columns: `labels` and `text`. The `labels` column indicates whether the SMS is spam or ham, while the `text` column contains the actual SMS message.
+The dataset used in this project is obtained from [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download). It contains two columns: `labels` and `text`. The `labels` column indicates whether the SMS is spam or ham, while the `text` column contains the actual SMS message.
 
 ## Getting Started
 
